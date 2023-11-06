@@ -14,7 +14,7 @@ python 02-optimization_tutorial.py
 ```
 
 Model|Training Time(sec)|Accuracy
------|-------------|--------------|--------
+-----|-------------|-------------
 Macbook Air M1 16Gi|26.373 | 71.3%
 MacMini M1 8GB |24.612 | 70.5%
 MacbookPro Intel/AMD 8GB |66.083 | 71.6%
