@@ -4,7 +4,7 @@
 
 ```bash
 pip3 install -U --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
-````
+```
 Testing
 ```bash
 python -m torch.utils.collect_env
