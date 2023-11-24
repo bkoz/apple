@@ -17,7 +17,7 @@ Model|Training Time(sec)|Accuracy
 -----|-------------|-------------
 Macbook Air M1 16Gi|26.373 | 71.3%
 MacMini M1 8GB     |24.612 | 70.5%
-MacbookPro Intel/AMD 8GB |66.083 | 71.6%
+MacbookPro Intel/AMD 8GB |81.245 | 71.6%
 Macbook Air M2 8GB       |23.542   |  71.2%
-iMac M3 16GB |     19.48        | 70.3%
+iMac M3 16GB |     18.832       | 70.3%
 
