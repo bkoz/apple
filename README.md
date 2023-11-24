@@ -13,11 +13,11 @@ python -m torch.utils.collect_env
 python 02-optimization_tutorial.py
 ```
 
-Model|Training Time(sec)|Accuracy
------|-------------|-------------
-Macbook Air M1 16Gi|26.373 | 71.3%
-MacMini M1 8GB     |24.612 | 70.5%
-MacbookPro Intel/AMD 8GB |81.245 | 71.6%
-Macbook Air M2 8GB       |23.542   |  71.2%
-iMac M3 16GB |     18.832       | 70.3%
+Model|Training Time(sec)
+-----|-------------
+Macbook Air M1 16Gi|26.373 
+MacMini M1 8GB     |24.612 
+MacbookPro Intel/AMD 8GB |81.245 
+Macbook Air M2 8GB       |23.542   
+iMac M3 16GB |     18.832       
 
